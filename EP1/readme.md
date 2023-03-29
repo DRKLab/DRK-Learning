@@ -47,7 +47,7 @@
 
 - 海报
 
-[https://lh6.googleusercontent.com/A45moJh6O9Wu7aI3_eJN7gLto-xXLUuPMIZVysGcCAdWcL0_ctTEb1YnFJ1Mzqrqjx8RDOnQqDcwCJWDXzYJ5nrrQ-yj6N76qHzunn-0_LFGiAEFMThnnSUcpZxB935YExwNO09sHIzDHapOIX_KJpw](https://lh6.googleusercontent.com/A45moJh6O9Wu7aI3_eJN7gLto-xXLUuPMIZVysGcCAdWcL0_ctTEb1YnFJ1Mzqrqjx8RDOnQqDcwCJWDXzYJ5nrrQ-yj6N76qHzunn-0_LFGiAEFMThnnSUcpZxB935YExwNO09sHIzDHapOIX_KJpw)
+[https://github.com/Jeremyidt/DRK-Learning/blob/main/EP1/PosterEP1.png)
 
 - 社群宣发用语
     - 🎓Web3 青年学者计划正式启动！
