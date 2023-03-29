@@ -47,8 +47,7 @@
 
 - 海报
 
-[https://github.com/Jeremyidt/DRK-Learning/blob/main/EP1/PosterEP1.png)
-
+![Image text](https://github.com/Jeremyidt/DRK-Learning/blob/main/EP1/PosterEP1.png)
 - 社群宣发用语
     - 🎓Web3 青年学者计划正式启动！
     - Web3 Young Scholar Program由DRK Lab联合imToken、Cryptape共同发起，旨在传达华语学术声音，帮助web3 builder衔接理论研究与开发实践，推动Web3行业科技创新。我们邀请业内知名学者以每周线上直播形式分享研究成果，课题涵盖MEV、mpc、zk、经济模型、监管等系列研究，为开发者带来相关科技领域前沿进展，同时有答疑环节、录播存档与社区交流，欢迎大家参加首期分享并持续关注！
