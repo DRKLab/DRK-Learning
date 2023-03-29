@@ -55,13 +55,13 @@
     
     - 🚀W3YS第一期分享主题：分布式金融(DeFi)攻击与实时防范
     - 本期将重点讲解 DeFi 攻击，探讨 DeFi 系统中的安全威胁，介绍防范这些攻击的方法。答疑环节可向Liyi博士提问DeFi项目开发中遇到的安全问题，欢迎大家参与并持续关注Web3青年学者计划分享！
-    - 
+    
     - 💁本期分享学者：Liyi Zhou
     - · 伦敦帝国理工博士研究生/ d23e.ch co-founder / DeFi MOOC助教；
     - · 研究领域为加密货币和区块链安全，多项相关论文发表至一类国际会议（IEEE S&P, Usenix, Financial Crypto, WWW等），同时担任多个加密货币安全相关会议审稿人
-    - 
+  
     - 💬本期论文：<SoK: Decentralized Finance (DeFi) Attacks>
     - （https://arxiv.org/abs/2208.13035）
-    - 
+    
     - 分享时间：北京时间 2.22号周三晚 8:00 PM
     - 报名链接：https://meeting.tencent.com/dw/wZq6oxovsI3N（请提前点击链接报名）
