@@ -53,7 +53,7 @@
 
 - 海报
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6acc8fda-5131-4cf5-8b73-d7548eb157d4/Untitled.png)
+![Untitled](https://github.com/Jeremyidt/DRK-Learning/blob/main/EP3/1.png)
 
 - 社群宣发用语
     - 第一次宣发
