@@ -53,7 +53,7 @@
 
 - 海报
 
-![Untitled](https://github.com/Jeremyidt/DRK-Learning/blob/main/EP3/1.png)
+![Untitled](https://github.com/Jeremyidt/DRK-Learning/blob/main/EP3/EP3%20Poster.png)
 
 - 社群宣发用语
     - 第一次宣发
