@@ -1,80 +1,165 @@
-# EP3Zero-KnowledgeProof
+# 整体计划
 
-## 媒体输出
+名称：web3青年学者计划
 
-- Youtube：
-- Twitter：https://twitter.com/DRK_Lab/status/1638082398452858886
+Web3 Young Scholars Program
 
-## 视频输出
+Web3youth.org
 
-- 源文件：链接: [https://pan.baidu.com/s/1cICdOUnf81_sN5XGQT34qg](https://pan.baidu.com/s/1cICdOUnf81_sN5XGQT34qg) 提取码: 3i5x
-- Youtube链接：
-- 标题：
-    - EP3·交互式零知识证明及其应用·Part1 IZK综述
-    - EP3·交互式零知识证明及其应用·Part2 IZK应用示例
-- 视频介绍：
-    - Web3青年学者计划(Web3 Young Scholar Program)由DRK Lab与imToken、秘猿科技联合发起，旨在传达华语学术声音，帮助web3 builder衔接理论研究与开发实践，推动Web3行业科技创新。
-    - 分享学者：谢翔
-    - PADO Labs联合创始人/密码学博士；
-    - 长期从事安全多方计算，零知识证明和同态加密等前沿密码技术的研究与工程实践；曾带领团队研发推出多个隐私计算开源框架；在密码学领域国际顶级会议上发表数十篇论文。
-    - 本期论文：
-    
-    AntMan (CCS' 22):  [https://eprint.iacr.org/2022/566](https://eprint.iacr.org/2022/566)
-    Wolverine (IEEE S&P' 21): [https://eprint.iacr.org/2020/925](https://eprint.iacr.org/2020/925)
-    Quicksilver (CCS' 21): [https://eprint.iacr.org/2021/076](https://eprint.iacr.org/2021/076)
-    Mystique (USENIX' 21): [https://www.usenix.org/system/files/sec21-weng.pdf](https://www.usenix.org/system/files/sec21-weng.pdf)
-    FKL+21 (CCS'21):[https://eprint.iacr.org/2021/979](https://eprint.iacr.org/2021/979)
-    
-    [https://github.com/pado-labs/awesome-izk](https://github.com/pado-labs/awesome-izk)
-    
-- Part1断点分段：
-    - 00:00:00 Web3青年学者计划介绍
-    - 00:01:02 自我介绍与概述
-    - 00:02:01 Zero-Knowledge Proofs是什么
-    - 00:04:16 ZKP和MPC概念对比
-    - 00:06:18 IZK和NIZK对比
-    - 00:08:33 IZK基本概念
-    - 00:11:01 IZK protocols 案例
-    - 00:18:27 IZK与NIZK（SNARKs/STARKs）对比
-- Part2断点分段：
-    - 00:00:00 IZK的应用:将Web2数据带到Web3
-    - 00:02:38 方案视角
-    - 00:06:18 zDAS概述
-    - 00:13:59 总结
-    - 00:14:26 Q&A
-    - 00:23:29 学者计划分享
-- 标签：crypto, blockchain, drk, DRK Lab, web3, scholar, web3 young scholar program, Interactive Zero-Knowledge Proof, Zero-Knowledge Proof, Xie Xiang
+Web3scholar.org
 
-## 文件输出
+Web3scholars.org
 
-- slides：[https://www.dropbox.com/s/q5qzchefegjf6uv/izk_talk.pdf?dl=0](https://www.dropbox.com/s/q5qzchefegjf6uv/izk_talk.pdf?dl=0)
+web3青年学者计划之——web3最新研究成果分享
 
-## 宣传物料
+Powered by：DRK Lab
 
-- 海报
+联合发起方：
 
-https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6acc8fda-5131-4cf5-8b73-d7548eb157d4/Untitled.png
+主要内容：
 
-- 社群宣发用语
-    - 第一次宣发
-    
-    Web3青年学者计划第三期分享将于本周二晚8点进行！
-    🚀本期分享主题：交互式零知识证明及其应用
-    💁本期分享学者：谢翔
-    · PADO Labs联合创始人/密码学博士；
-    · 长期从事安全多方计算、零知识证明和同态加密等前沿密码技术的研究与工程实践；曾带领团队研发推出多个隐私计算开源框架；在密码学领域国际顶级会议上发表数十篇论文。
-    💬本期相关论文：
-    
-    AntMan (CCS' 22):  [https://eprint.iacr.org/2022/566](https://eprint.iacr.org/2022/566)
-    Wolverine (IEEE S&P' 21): [https://eprint.iacr.org/2020/925](https://eprint.iacr.org/2020/925)
-    Quicksilver (CCS' 21): [https://eprint.iacr.org/2021/076](https://eprint.iacr.org/2021/076)
-    Mystique (USENIX' 21): [https://www.usenix.org/system/files/sec21-weng.pdf](https://www.usenix.org/system/files/sec21-weng.pdf)
-    
-    分享时间：北京时间 3.21 号周二晚 8:00 PM
-    报名链接：[https://meeting.tencent.com/dw/42Csh1U6K8kl](https://meeting.tencent.com/dw/42Csh1U6K8kl) (请提前点击链接报名)
-    
-    - 第二次宣发
-    
-    Web3青年学者计划第三期分享将于今晚8点开始！本期我们邀请了谢翔博士为我们讲解“交互式零知识证明及其应用”，欢迎大家参加！
-    分享时间：北京时间 3.21 号周二晚 8:00 PM
-    分享链接：[https://meeting.tencent.com/dw/42Csh1U6K8kl](https://meeting.tencent.com/dw/42Csh1U6K8kl)
+- 面向华语社区的，crypto领域最新学术研究成果分享；
+- 研究驱动产业，产业应用研究；
+- open science, research driven,
+- 早期以华语为主（加强香港/台湾学者、研究者资源），后续扩展增加英文社区&学者
+
+领域：早期技术解决方案（cs为主），后更多增加经济学、社会学、治理等研究（与dao合作）
+
+# 活动内容
+
+| 活动形式 | 分享人 | 频率 | 载体 |  |
+| --- | --- | --- | --- | --- |
+| Online Sharing | 论文作者 | 两周一期 | Google/zoom会议+YouTube | 1小时左右；(45分钟+15分钟Q&A）；
+基于讨论主题，序列性；
+从基础、常用逻辑/方法、到深入的最新研究 |
+| 圆桌讨论 | 学术界+业界相关 | 每月一次 | twitter space+播客 |  |
+| 线下会议 | 热点讨论议题 | 华语圈大会期间 | side event
+大会：5-10个老师，从basic、基础、常用逻辑、最新研究 | 最近23年4月份香港峰会期间；瓦猫desci会场 |
+
+# 初期形式：
+
+wechat/discord/telegram，会议链接邀请
+
+dapp-learning、rebase、tintin、buidlerdao等社区推广
+
+- 访谈流程：
+    - 介绍Web3学者计划与DRKlab
+    - 自我介绍
+    - 嘉宾分享
+    - 采访问题
+        - xxxx
+        - xxxx
+    - 总结
+    - 下期预告
+- 文稿撰写
+- 视频制作
+    - 剪辑（分片段断点式）
+    - 字幕（中英双语）
+    - 品宣物料（开头结尾统一品宣）
+- 宣发
+    - 视频上传【youtube】
+    - 文章发表【coindesk、foresight、PAnews、律动、深潮】
+    - 推特发表
+    - 宣发转载
+        - 合作方转载推特
+        - 社区发送foresight等文章
+            - 合作方社区
+            - 一些crypto微信群
+                - 待挑选
+        - 合作方朋友圈转载文章
+
+# 论文/潜在学者库：
+
+# 组织形式：
+
+- 学者来源：
+    - 早期寻找cecs、sbc华语分享者，
+    - 后开放申请渠道（评审委员会）：学术界+产业界评审
+- 资助计划：
+    - 项目方赏金计划：matching pool，针对特定方向寻求学者研究帮助
+    - 资金池：针对部分学者研究成果，增加or追溯奖励
+
+# 学者支持：
+
+[Untitled](https://www.notion.so/8bf5d4f4f9944ad68178b980f7caad58)
+
+# 合作计划
+
+联合发起
+
+学者计划奖金学基金会成员
+
+社区支持
+
+高校联合计划
+
+媒体合作
+
+[合作方列表](https://www.notion.so/f7dfda6d06cd4bb19025d993e91fdb81)
+
+- desci：desci伦敦
+- 关注公共物品领域的top项目方：gitcoin中文、ethplanet、ethhk
+- 高校区块链协会：大陆，香港（0xU、港大、科大、中文），新加坡，台湾
+- Nervos，Ren Zhang（可以作为行业发起方）
+- imtoken，首席科学家陳昶吾？
+- builder DAO
+- 社区支持：seedao（已敲定），atapha lab？，dapp-learning，
+- 
+
+# 品牌宣传
+
+**首次宣发**
+
+> 直观效果预览
+> 
+
+> 华语圈类比：水滴资本 X BuilderDao高校创业孵化器
+> 
+
+> 英语圈类比：
+> 
+
+- 宣发形式
+    - 华语媒体网站中文宣发
+    - 英文媒体网站英语宣发
+    - 推特
+    - 合作方转载
+    - 社群转载
+- 宣发合作方确认
+- 宣发简讯文案：
+- 
+
+# 学者奖学金计划
+
+宗旨：
+
+奖励对象：
+
+奖励规则：
+
+赞助方：
+
+[奖学金赞助方列表](https://www.notion.so/22e0daa2e7de4407b53694a0a36579bf)
+
+社会捐助办法：
+
+奖学金资金使用公示细则：
+
+待讨论问题：
+
+除了邀请学者分享和引入资金支持外，还有哪些方式将学者引入进来，
+
+邀请听众名单
+
+| 姓名 | 机构/项目方 |
+| --- | --- |
+| zhangye | scorll |
+| 李其柄 | ownership labs |
+|  | NextID |
+|  | IPFS |
+| 穆冉 | DB3 |
+| Todd | A&T |
+|  | IOSG |
+| 唐亦 | 启明创投 |
+|  | Arweave |
+|  |  |
