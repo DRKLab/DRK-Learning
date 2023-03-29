@@ -41,7 +41,7 @@
 ## 宣传物料
 
 - 海报
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](https://github.com/Jeremyidt/DRK-Learning/blob/main/EP2/PosterEP2.jpeg)
 
 - 社群宣发用语
     - 🎓Web3 青年学者计划正式启动！
